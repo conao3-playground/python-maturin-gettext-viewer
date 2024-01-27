@@ -1,11 +1,10 @@
 [package]
-name = "python-maturin-gettext-viewer"
+name = "maturin-gettext-viewer"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [lib]
-name = "python_maturin_gettext_viewer"
+name = "maturin_gettext_viewer"
 crate-type = ["cdylib"]
 
 [dependencies]
